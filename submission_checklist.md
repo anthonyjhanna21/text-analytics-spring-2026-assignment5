@@ -22,7 +22,9 @@
 - [x] Ground truth columns included: sentiment and topic
 - [x] Three prompt strategies documented
 - [x] Notebook cells have saved outputs for setup, dataset loading, test set creation, and prompt generation
+- [x] Notebook configured for at least two models: Gemini and Hugging Face Mistral
 - [ ] Add `GOOGLE_API_KEY` to `.env`
+- [ ] Add `HF_TOKEN` to `.env`
 - [ ] Set `RUN_API_CALLS = True`
 - [ ] Run full model experiments
 - [ ] Save `results/raw_model_outputs.csv`

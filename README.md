@@ -38,15 +38,19 @@ notebooks/lm_evaluation.ipynb
 ## Models and Tools Used
 
 - Google Gemini free tier
+- Hugging Face Inference API: `mistralai/Mistral-7B-Instruct-v0.3`
+- Optional backup model: `google/flan-t5-large`
+- Optional local model path: Ollama with `llama3`, `mistral`, or `phi3`
 - Kaggle Brands and Product Emotions dataset
 - Python
 - pandas
 - kagglehub
 - google-generativeai
+- huggingface_hub
 
 ## Paid vs. Free Path
 
-This project is designed for the free path using Google AI Studio's free tier and Kaggle's free dataset access.
+This project is designed for the free path using Google AI Studio's free tier, Hugging Face's free Inference API token, and Kaggle's free dataset access.
 
 ## Key Findings
 

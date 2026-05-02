@@ -1,0 +1,31 @@
+id,post,sentiment,topic,case_type
+1,This dude next to me is holding and using an iPad 2 like it's a trophy. #sxsw #lookingforwardtothemusicfest,positive,iPad,standard
+2,RT @mention I hope everyone has an awesome weekend at #SXSW! I know @mention is giving away some great Apple prizes.,positive,Apple,standard
+3,RT @mention line moving fast! Rt @mention have seen two impressive lines since I'm at #SXSW the one at the Apple Store & @mention party now,positive,Apple,standard
+4,Last minute flight change to #sxsw means I can pick up an iPad 2 before I leave! #fb,positive,iPad,standard
+5,"YES RT @mention LoL U r gadgetzilla! Have fun! @mention It's #SXSW Festival time. OMG I'm scared! Got my netbook, #iPad & my droid!",positive,iPad,standard
+6,"bored at #SxSW, try this iphone app: {link}",positive,iPad or iPhone App,standard
+7,Holler Gram for iPad on the iTunes App Store: {link} via @mention all you #SXSW-sters great App from #MadebyMany - Free,positive,iPad or iPhone App,standard
+8,"All this #sxsw gadget lust is rubbing off on me, I think I want an iPad 2... must escape soon!",positive,iPad,standard
+9,"#GoogleDoodle #sxsw Google Doodles, simple on the surface, complex and intricate underneath.",positive,Other Google product or service,standard
+10,keep up with new on #Japan quake from iPhone at #SXSW - NHK World TV Live {link},positive,iPhone,standard
+11,@mention really disappointed with the iPad app - lots of error messages have to switch to tweet deck for the rest of #sxsw,negative,iPad or iPhone App,standard
+12,"Overheard at #sxsw interactive: ""Arg! I hate the iphone! I want my blackberry back"" #shocked",negative,iPhone,standard
+13,Apple takes bruises from panelists. Not well regarded in sustainability space. Corporate Sustainability Reporting and Transparency. #SXSW,negative,Apple,standard
+14,"Okay, fair enough lining up for new tech, but not at the cost of #sxsw... It is so much better than a new iPad... {link}",negative,iPad,standard
+15,People in this Apple store do not...smell great. #sxsw #hereforwork #nottheipad2,negative,Apple,standard
+16,"L.A.M.E. RT @mention ""...by the law of averages, better than Buzz"" RT @mention ""Google Circles will be ______ "" #sxsw",negative,Other Google product or service,standard
+17,RT @mention Novelty of iPad news apps fades fast among #SXSW delegates - by @mention {link},negative,iPad or iPhone App,standard
+18,Grrr..plancast stuff exported to Google calendar in San Diego/pacific time did not shift to central tme #wack #sxsw,negative,Google,standard
+19,RT @mention Nothing says DOUCHE CAKE like walking around with a IPAD like it's an Iphone #sxsw,negative,iPad,standard
+20,Auntie's voxpop of popular #sxsw apps is worth a watch: {link} Not many Android phones on view.,negative,Android,standard
+21,@mention You can get an iPad 1 for under $350 now. And they'll be $99 before you know it. Look at iPhone. #newsapps #sxsw,neutral,iPad,ambiguous_hard
+22,"On the couch with iPad propped on my gut full of breakfast tacos. A dangerous position for inertia. What's happening tonight, #SXSW friends?",neutral,iPad,ambiguous_hard
+23,Is music happening at #SXSW or is it just a lamewad promo fest for #zappos #Apple #Samsung etc. ????,neutral,Apple,ambiguous_hard
+24,New #UberSocial for #iPhone now in the App Store includes UberGuide to #SXSW sponsored by #Mashable {link} by @mention #app,neutral,iPad or iPhone App,ambiguous_hard
+25,"Check out iPad Design Headaches (2 Tablets, Call in the Morning) at SXSW. {link} #SXSW #tapworthy",neutral,iPad,ambiguous_hard
+26,Looks like I was an hour late for getting an ipad. #SXSW #sadpanda,neutral,iPad,edge
+27,"Saw a company today ready to launch, sounds a lot like Google Circles, but with actual personal privacy www.mycube.com #sxsw",neutral,Other Google product or service,edge
+28,Google (tries again) to launch a new social network called Circles: {link} #sxsw,neutral,Google,edge
+29,"All the posts from #sxsw are making me jealous. BTW #sxsw auto corrects as ass's on the iPad. No joke, check it.",neutral,iPad,edge
+30,"RT @mention In iPad Design Headaches: Take Two Tablets, Call Me in the AM panel - excited to hear @mention live! #sxsw",neutral,iPad,edge

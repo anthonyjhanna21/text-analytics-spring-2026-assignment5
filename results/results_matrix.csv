@@ -1,0 +1,7 @@
+model,strategy,sentiment_accuracy,topic_accuracy,exact_match_accuracy,format_compliance,avg_latency_seconds,calls
+gemini-flash-lite-latest,structured_json,0.7333333333333333,0.9,0.6333333333333333,1.0,0.06962173890012006,30
+gemini-flash-lite-latest,few_shot,0.6333333333333333,0.9,0.5666666666666667,1.0,0.08524129999956737,30
+gemini-flash-lite-latest,zero_shot,0.6666666666666666,0.9,0.5666666666666667,1.0,0.0623807027664346,30
+typeform/distilbert-base-uncased-mnli,zero_shot,0.4,0.43333333333333335,0.23333333333333334,1.0,0.1107165666665726,30
+typeform/distilbert-base-uncased-mnli,structured_json,0.3333333333333333,0.4,0.16666666666666666,1.0,0.0687705055325447,30
+typeform/distilbert-base-uncased-mnli,few_shot,0.36666666666666664,0.3,0.06666666666666667,1.0,0.0753053028000673,30

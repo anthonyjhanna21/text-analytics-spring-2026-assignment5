@@ -37,9 +37,10 @@ notebooks/lm_evaluation.ipynb
 
 ## Models and Tools Used
 
-- Google Gemini free tier
-- Hugging Face Inference API: `mistralai/Mistral-7B-Instruct-v0.3`
-- Optional backup model: `google/flan-t5-large`
+- Google Gemini API: `gemini-flash-lite-latest`
+- Hugging Face Transformers local model: `typeform/distilbert-base-uncased-mnli`
+- Hugging Face Inference API support is included in the notebook, but the current token returned a monthly-credit-depleted error during testing
+- Original Hugging Face guideline examples tested but not available through the current route: `mistralai/Mistral-7B-Instruct-v0.3`, `google/flan-t5-large`
 - Optional local model path: Ollama with `llama3`, `mistral`, or `phi3`
 - Kaggle Brands and Product Emotions dataset
 - Python
@@ -50,7 +51,7 @@ notebooks/lm_evaluation.ipynb
 
 ## Paid vs. Free Path
 
-This project is designed for the free path using Google AI Studio's free tier, Hugging Face's free Inference API token, and Kaggle's free dataset access.
+This project is designed for the free path using Google AI Studio's free tier, a local Hugging Face Transformers zero-shot classifier, and Kaggle's free dataset access. Hugging Face Inference API support is included as a backup path if monthly free credits are available.
 
 ## Key Findings
 

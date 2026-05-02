@@ -1,5 +1,5 @@
 .env
+.DS_Store
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
-results/raw_model_outputs.csv

@@ -4,3 +4,6 @@ kagglehub
 google-generativeai
 huggingface_hub
 requests
+transformers
+torch
+sentencepiece

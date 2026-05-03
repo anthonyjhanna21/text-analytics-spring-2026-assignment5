@@ -2,11 +2,12 @@
 
 | Date | Tool | What I Asked | What I Used | What I Modified |
 |---|---|---|---|---|
-| 2026-05-02 | ChatGPT/Codex | Help me choose the easiest Assignment 5 option | Used the suggestion to choose Option C | Picked LM evaluation instead of building a Streamlit RAG app |
-| 2026-05-02 | ChatGPT/Codex | Help write my task proposal | Used the structure for task description, business value, and success criteria | Reworded it for social media sentiment and topic classification |
-| 2026-05-02 | ChatGPT/Codex | Suggest a real dataset | Used the Brands and Product Emotions dataset idea | Chose this dataset because it had real tweets and brand/product labels |
-| 2026-05-02 | ChatGPT/Codex | Help create the notebook structure | Used the folder layout and notebook outline | Adjusted the notebook to match my selected task |
-| 2026-05-02 | ChatGPT/Codex | Help design prompt strategies | Used zero-shot, few-shot, and structured JSON prompts | Edited the prompts so they used my sentiment and topic labels |
-| 2026-05-02 | ChatGPT/Codex | Help troubleshoot slow/free model options | Used the idea to batch Gemini calls | Changed the approach so the notebook ran faster |
-| 2026-05-02 | ChatGPT/Codex | Help summarize the results | Used the main metric summary | Wrote the final interpretation in my own words |
-| 2026-05-02 | ChatGPT/Codex | Help identify one AI suggestion I did not fully use | Used the note that the first API-only approach was not practical | I chose a local Hugging Face model instead because it worked better for the free path |
+| 2026-05-02 | ChatGPT/Codex | Help me understand the assignment options | Used the explanation of the three options | Chose to work on Option C |
+| 2026-05-02 | ChatGPT/Codex | Help set up the required repo folders | Used the suggested folder structure | Created the folders required for Option C |
+| 2026-05-02 | ChatGPT/Codex | Help download the dataset file | Used the Kaggle download approach | Saved the raw dataset in `data/raw/` |
+| 2026-05-02 | ChatGPT/Codex | Help create a notebook shell | Used the notebook organization idea | Added sections for setup, loading data, running models, and saving results |
+| 2026-05-02 | ChatGPT/Codex | Help troubleshoot package issues | Used the install/check commands | Added missing packages to `requirements.txt` |
+| 2026-05-02 | ChatGPT/Codex | Help troubleshoot slow model execution | Used the batching/caching idea | Changed the code so results could save without rerunning everything |
+| 2026-05-02 | ChatGPT/Codex | Help fix GitHub push setup | Used the Git remote and push commands | Connected the local folder to the correct GitHub repository |
+| 2026-05-02 | ChatGPT/Codex | Help check required files before submission | Used the file checklist | Confirmed the repo contained the required folders and files |
+| 2026-05-02 | ChatGPT/Codex | Help identify one AI suggestion I did not fully use | Used the note that the API-only Hugging Face route was not practical | I used a local Hugging Face model instead of relying only on the API route |

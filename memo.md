@@ -48,3 +48,14 @@ For a business monitoring social media feedback, this evaluation suggests that a
 However, the model still made sentiment mistakes on subtle or mixed tweets. Some posts that included sarcasm, indirect criticism, or mild excitement were classified incorrectly. Because of that, I would not use this system as a fully automated decision-maker. I would use it as a first-pass labeling tool, with human review for ambiguous or high-impact posts.
 
 Overall, the best workflow is to use structured prompting with a strong API model for production-style analysis, while keeping a local Hugging Face model as a free backup or baseline comparison.
+
+## Cost and Performance Tradeoff
+
+This project used the free path, so there was no paid API cost in the experiment. Gemini used the Google AI Studio free tier, and the Hugging Face model was run locally through Transformers.
+
+| Model | Best Strategy | Exact-Match Accuracy | Cost Used |
+|---|---:|---:|---:|
+| `gemini-flash-lite-latest` | structured JSON | 63.3% | $0.00 |
+| `typeform/distilbert-base-uncased-mnli` | zero-shot | 23.3% | $0.00 |
+
+Because both options were free in this setup, the higher-performing Gemini model was worth using. The Hugging Face model still had value as a no-cost local baseline, but it was not accurate enough to be my recommended production choice.

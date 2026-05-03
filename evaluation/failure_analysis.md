@@ -12,9 +12,9 @@ The most common sentiment issue was confusing emotionally weak posts with neutra
 
 Examples of sentiment difficulty included:
 
-- A tweet saying someone was using an iPad 2 "like it's a trophy" was labeled neutral by Gemini, even though the ground truth was positive.
-- A tweet about wanting an iPad 2 because of "gadget lust" was labeled neutral, even though the ground truth was positive.
-- A tweet saying someone was late for getting an iPad and included `#sadpanda` was labeled negative by Gemini, while the ground truth was neutral.
+- Example 1: A tweet saying someone was using an iPad 2 "like it's a trophy" was labeled neutral by Gemini, even though the ground truth was positive.
+- Example 8: A tweet about wanting an iPad 2 because of "gadget lust" was labeled neutral, even though the ground truth was positive.
+- Example 26: A tweet saying someone was late for getting an iPad and included `#sadpanda` was labeled negative by Gemini, while the ground truth was neutral.
 
 These errors show that short social media posts can be hard to classify because sentiment is often implied through slang, hashtags, sarcasm, or context.
 

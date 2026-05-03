@@ -64,5 +64,7 @@ To be completed after running the experiments.
 - `notebooks/lm_evaluation.ipynb`: main experiment notebook
 - `prompts/prompt_templates.md`: prompt strategies
 - `results/results_matrix.csv`: model and prompt comparison metrics
+- `results/results_summary.md`: visual summary of the model comparison
+- `results/model_strategy_performance.png`: chart of model and strategy performance
 - `evaluation/failure_analysis.md`: qualitative error analysis
 - `ai_log.md`: AI usage log
